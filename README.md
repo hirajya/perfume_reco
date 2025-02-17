@@ -1,7 +1,4 @@
-# **Perfume Clustering & Recommendation System**
-
-## **Perfume Visualization**  
-Visualization of perfume clusters based on scent profiles.
+# **Fragrance Clusters: Identifying Common Perfume Groups Using Scent Profiles and Recommendation System**
 
 ## **Project Overview**  
 This project aims to analyze perfumes based on their scent profiles, identify common themes among them, and build a recommendation system. By clustering perfumes based on their notes, we can uncover patterns in fragrance compositions and suggest similar perfumes based on a given sample.
@@ -108,7 +105,7 @@ streamlit run app.py
 
 ## **Accessing the Paper**  
 For a detailed explanation of the methodology and results, please refer to the project paper:
-Perfume Clustering & Recommendation System Paper (Link to be updated soon)
+Fragrance Clusters: Identifying Common Perfume Groups Using Scent Profiles and Recommendation System (Link to be updated soon)
 
 ## **Authors**  
 - Christian Joshua Alberto
