@@ -85,33 +85,36 @@ This project aims to analyze perfumes based on their scent profiles, identify co
 
 #### **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/perfume-recommendation-system.git```
+git clone https://github.com/your-username/perfume-recommendation-system.git
 cd perfume-recommendation-system
-Set Up the Environment
+```
+
+#### **Set Up the Environment**  
 Install dependencies using Poetry:
-
-bash
-Copy
-Edit
+```bash
 poetry install
-Activate the Virtual Environment
-bash
-Copy
-Edit
+```
+
+#### **Activate the Virtual Environment**  
+```bash
 poetry shell
-Run the Streamlit App
+```
+
+#### **Run the Streamlit App**  
 Start the Streamlit application for interactive exploration:
-
-
+```bash
 streamlit run app.py
-Accessing the Paper
+```
+
+## **Accessing the Paper**  
 For a detailed explanation of the methodology and results, please refer to the project paper:
 Perfume Clustering & Recommendation System Paper (Link to be updated soon)
 
-Authors
-Christian Joshua Alberto
-Mark De Luna
-Rodney Lei Estrada
-License
+## **Authors**  
+- Christian Joshua Alberto
+- Mark De Luna
+- Rodney Lei Estrada
+
+## **License**  
 This project is licensed under the MIT License. See the LICENSE file for details.
 
